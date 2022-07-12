@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syaifuddinrifan
 - 👀 I’m interested in Unmanned Aerial Vehicle and Embedded systems
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning GNSS RTK with mobile app
 - 💞️ I’m looking to collaborate on UAV projects
 - 📫 How to reach me IG @syaifuddinrifan
 
